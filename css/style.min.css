@@ -8,5 +8,11 @@
  .logo {
     color: #fc7341;
 }
+.navbar-brand
+{
+    position: relative;
+    width:250px;
+    height: 70px; 
+}
  
 /*# sourceMappingURL=maps/style.min.css.map */
